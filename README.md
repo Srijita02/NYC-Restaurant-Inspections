@@ -7,3 +7,5 @@ NYC Open Data. (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaur
 
 Website:
 https://katelask99.github.io/
+
+We have removed some heavy plots from the ipynb to reduce the file size, they can be viewed on the website. The corresponding figure numbers have been mentioned on the notebook.
