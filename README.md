@@ -3,7 +3,7 @@ FOOD SAFETY THROUGH THE YEARS: A DECADE OF DINING IN NYC Exploring restaurant in
 
 Data Source:
 New York City Department of Health and Mental Hygiene. (n.d.). Restaurant Inspection Results.
-NYC Open Data. https://data.cityofnewyork.us/Health/Restaurant-Inspection-Results/43nn-pn8j
+NYC Open Data. (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data)
 
 Website:
 https://katelask99.github.io/
