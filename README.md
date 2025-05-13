@@ -6,4 +6,4 @@ New York City Department of Health and Mental Hygiene. (n.d.). Restaurant Inspec
 NYC Open Data. https://data.cityofnewyork.us/Health/Restaurant-Inspection-Results/43nn-pn8j
 
 Website:
-https://katelask99.github.io/](https://katelask99.github.io/
+https://katelask99.github.io/
